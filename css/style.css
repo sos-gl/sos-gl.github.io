@@ -71,6 +71,7 @@ a.latest-project-button { width:198px; height:57px; background:url(images/latest
 .portfolio { width:1004px; position:relative; margin-right:-24px; }
 .portfolio ul{ list-style-type: none; }
 .portfolio a{ float:left; width:298px; height:173px; font-size:0; line-height:0; background:url(images/portfolio-link.jpg); padding:12px 0 0 12px; margin:0 24px 30px 0;}
+.portfolio a img { width: 286px; height: 160px;}
 .copyrights{text-indent:-9999px;height:0;line-height:0;font-size:0;overflow:hidden;}
 
 .contact .left { width:460px; }
