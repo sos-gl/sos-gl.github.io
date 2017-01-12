@@ -135,3 +135,8 @@ a.latest-project-button { width:198px; height:57px; background:url(images/latest
 .close { width:41px; height:41px; background:url(images/close-small.png); position:absolute; top:-5px; right:-5px; z-index:2;}
 
 #navigation-handler { position:absolute; width:560px; height:200px; top:0; left:480px; z-index:1;}
+
+#SOHUCS #SOHU_MAIN .module-cmt-box .post-wrap-w .post-wrap-main .area-textarea-e .textarea-fw {
+    color: #ffffff;
+    background-color: transparent;
+}
