@@ -6,7 +6,7 @@
 
 [Server]
 251=全网通服务器|秦时明月|秦时明月|mir2-server-1.sos.gl|7010|1|micro-client.sos.gl|8001|0
-251=测试版服务器|万里长征|万里长征|mir2-server-2.sos.gl|7015|1|micro-client.sos.gl|8001|0
+251=测试版服务器|万里长征|万里长征|mir2-server-1.sos.gl|7015|1|micro-client.sos.gl|8001|0
 251=测试版服务器|本地测试|本地测试|127.0.0.1|7010|1|micro-client.sos.gl|8001|0
 
 [Upgrade]
