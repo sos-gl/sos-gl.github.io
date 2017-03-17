@@ -59,16 +59,16 @@ a:hover{color:#f40}
 /*窗口*/
 *html{background-image:url(about:blank);background-attachment:fixed;}/*解决IE6下滚动抖动的问题*/
 /*- - - - - - - - -样式属下载.html - - - - - - - -*/
-#DownloadList{width:299px;height:322px;position:relative;overflow:hidden;padding:5px 0px 0px 5px;background:#0d0f0e url(logobg1.jpg) no-repeat center;border:1px solid #962020;}
+#DownloadList{width:299px;height:322px;position:relative;overflow:hidden;padding:5px 0px 0px 5px;background:#0d0f0e;border:1px solid #962020;}
 #DownloadList h3{clear:both;font-size:20px;font-weight:bold;color:#FFCC33;text-align:center;}
 #DownloadList dl{line-height:32px;font-size:14px;color:#fff;margin-bottom:37px;}
 #DownloadList dl dt{display:inline;}
 #DownloadList dl dd{margin-right:25px;display:inline;}
 #DownloadList ul{float:left;width:310px;}
 #DownloadList ul li{float:left;margin-left:6px;display:inline;}
-#DownloadList ul li a{width:90px;height:30px;line-height:30px;text-align:center;font-size:13px;color:#fff;background:url(btn_a_bg.png) no-repeat left top;display:block;}
+#DownloadList ul li a{width:90px;height:30px;line-height:30px;text-align:center;font-size:13px;color:#fff;display:block;}
 #DownloadList ul li a:hover{background-position:right top;text-decoration:none;font-weight:bold;color:#000}
-#DownloadList .btnclose{width:40px;height:37px;position:absolute;text-indent:-99em;overflow:hidden;top:14px;right:13px;background:url(btn_close.png) no-repeat left top;}
+#DownloadList .btnclose{width:40px;height:37px;position:absolute;text-indent:-99em;overflow:hidden;top:14px;right:13px;}
 #DownloadList .btnclose:hover{background-position:left bottom;}
 #DownloadList .main{width:322px;height:280px;margin-top:20px;margin-bottom:5px;font-family: "Microsoft YaHei";overflow:hidden;}
 #DownloadList .main .title{width:283px;height:30px;background:#000;margin:5px;line-height:30px;}
