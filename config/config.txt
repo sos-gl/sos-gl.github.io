@@ -6,7 +6,9 @@
 
 [Server]
 251=全网通有英雄合击区|秦时明月|秦时明月|mir2-server-1.sos.gl|7010|1|micro-client.sos.gl|8001|0
-251=全网通无英雄复古区|万里长征|万里长征|mir2-server-1.sos.gl|7015|1|micro-client.sos.gl|8001|0
+251=全网通有英雄合击区|大江东去|大江东去|mir2-server-1.sos.gl|7020|1|micro-client.sos.gl|8001|0
+251=全网通无英雄复古区|万里长征(内测)|万里长征|mir2-server-1.sos.gl|7015|1|micro-client.sos.gl|8001|0
+251=全网通无英雄复古区|千古风流(内测)|千古风流|mir2-server-1.sos.gl|7025|1|micro-client.sos.gl|8001|0
 251=本地测试服务器专区|本地测试|本地测试|127.0.0.1|7010|1|micro-client.sos.gl|8001|0
 
 [Upgrade]
