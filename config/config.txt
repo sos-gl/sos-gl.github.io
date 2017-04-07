@@ -5,11 +5,11 @@
 刷新速度=120
 
 [Server]
-250=全网通有英雄合击区|大江东去|大江东去|mir2-server-1.sos.gl|7020|1|micro-client.sos.gl|8001|0
-251=全网通有英雄合击区|秦时明月|秦时明月|mir2-server-1.sos.gl|7010|1|micro-client.sos.gl|8001|0
-250=全网通无英雄复古区|万里长征|万里长征|mir2-server-1.sos.gl|7015|1|micro-client.sos.gl|8001|0
+250=全网通有英雄合击区|大江东去|大江东去|mir2-server-1.sos.gl|6020|1|micro-client.sos.gl|8001|0
+251=全网通有英雄合击区|秦时明月|秦时明月|mir2-server-1.sos.gl|6010|1|micro-client.sos.gl|8001|0
+250=全网通无英雄复古区|万里长征|万里长征|mir2-server-1.sos.gl|6015|1|micro-client.sos.gl|8001|0
 
-251=内部测试服务器专区|本地测试|本地测试|127.0.0.1|7010|1|micro-client.sos.gl|8001|0
-250=内部测试服务器专区|千古风流|千古风流|mir2-server-1.sos.gl|7025|1|micro-client.sos.gl|8001|0
+251=内部测试服务器专区|本地测试|本地测试|127.0.0.1|6010|1|micro-client.sos.gl|8001|0
+250=内部测试服务器专区|千古风流|千古风流|mir2-server-1.sos.gl|6025|1|micro-client.sos.gl|8001|0
 [Upgrade]
 0=1	\	春秋传奇登录器.exe	2d952329e6e8102c34f94df435019156	http://sos-gl-r.doopai.com/downloads/%E6%98%A5%E7%A7%8B%E4%BC%A0%E5%A5%87%E7%99%BB%E5%BD%95%E5%99%A8_20170228_2.exe
