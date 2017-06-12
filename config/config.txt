@@ -5,7 +5,7 @@
 刷新速度=120
 
 [Server]
-250=全网通有英雄合击区|秦时明月|秦时明月|mir2-server-1.sos.gl|6010|1|micro-client.sos.gl|8001|0
+;250=全网通有英雄合击区|秦时明月|秦时明月|mir2-server-1.sos.gl|6010|1|micro-client.sos.gl|8001|0
 250=全网通无英雄复古区|万里长征|万里长征|mir2-server-1.sos.gl|6015|1|micro-client.sos.gl|8001|0
 
 [Upgrade]
